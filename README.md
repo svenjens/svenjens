@@ -34,7 +34,7 @@ With **15+ years of experience**, I turn complex technical challenges into simpl
 
 ### **🔹 Full-Stack Development**
 
-- **Frontend**: Modern web applications with Next.js, React, Vue
+- **Frontend**: Modern web applications with Next.js, Nuxt, React, Vue
 - **Backend**: Node.js, PHP/Symfony, GraphQL, REST APIs
 - **Cloud & Infrastructure**: AWS, Google Cloud, Docker
 - **Databases**: PostgreSQL, MySQL, MongoDB
@@ -57,10 +57,14 @@ With **15+ years of experience**, I turn complex technical challenges into simpl
 
 ### AI & Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC9C66?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Vector DB](https://img.shields.io/badge/Vector_DB-00C7B7?style=for-the-badge&logo=database&logoColor=white)
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -81,6 +85,12 @@ With **15+ years of experience**, I turn complex technical challenges into simpl
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Architecture & Best Practices
+![DDD](https://img.shields.io/badge/Domain_Driven_Design-0078D4?style=for-the-badge&logo=&logoColor=white)
+![TDD](https://img.shields.io/badge/Test_Driven_Development-25A162?style=for-the-badge&logo=&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-FF6B6B?style=for-the-badge&logo=&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-4A90E2?style=for-the-badge&logo=&logoColor=white)
 
 ---
 
