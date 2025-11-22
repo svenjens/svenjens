@@ -41,15 +41,15 @@ With **15+ years of experience**, I turn complex technical challenges into simpl
 
 ---
 
-## 💼 What This Means for Your Organization
+## 💼 What I Bring
 
-**Leadership:** I can lead engineering teams, mentor developers, and drive technical roadmaps that align with business goals.
+**Leadership** - Lead teams, mentor developers, align tech with business goals
 
-**Speed & Quality:** I build solutions that launch fast but are built to last, reducing technical debt and maintenance costs.
+**Speed & Quality** - Fast launches, built to last, low maintenance
 
-**Scalability:** The systems I build grow with your business—handling 10 users or 10 million users without rebuilding from scratch.
+**Scale** - Systems that grow from 10 to 10M users
 
-**AI Integration:** I help companies leverage AI to automate processes, improve products, and stay ahead of the competition.
+**AI** - Practical AI integration that delivers real value
 
 ---
 
@@ -94,25 +94,19 @@ With **15+ years of experience**, I turn complex technical challenges into simpl
 
 ---
 
+## 🎯 Currently
+
+Looking for a **full-time Tech Lead or Senior Engineering role** in the Randstad area where I can drive technical strategy, build great teams, and leverage AI to accelerate product development.
+
+---
+
 ## 📫 Let's Connect
 
 📍 Haarlem / Randstad
 
-💼 Open for full-time senior / lead roles
-
 🔗 [LinkedIn](https://www.linkedin.com/in/svenjens/)
 
-💻 [GitHub](https://github.com/svenjens)
-
 ✉️ sven@sven-jens.nl
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=svenjens&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svenjens&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
