@@ -23,21 +23,21 @@ With **15+ years of experience**, I turn complex technical challenges into simpl
 ### **🔹 Building Scalable Solutions**
 
 - Creating flexible software that grows with your business needs
-- Building systems that can be reused and customized for multiple clients (white-label)
+- Building white-label systems that can be reused and customized for multiple clients
 - Ensuring rock-solid security, performance, and reliability from day one
 
 ### **🔹 AI & Automation**
 
-- Integrating AI capabilities (like ChatGPT) into products
+- Integrating AI capabilities into products
 - Automating repetitive tasks to save time and reduce errors
 - Helping teams understand and adopt AI in their daily work
 
 ### **🔹 Full-Stack Development**
 
-- **Frontend** (what users see): Modern web applications with Next.js, React, Vue
-- **Backend** (server logic): Node.js, PHP/Symfony, GraphQL, REST APIs
-- **Cloud & Infrastructure**: AWS, Google Cloud, Docker (hosted, always available)
-- **Databases**: PostgreSQL, MySQL, MongoDB (data storage & management)
+- **Frontend**: Modern web applications with Next.js, React, Vue
+- **Backend**: Node.js, PHP/Symfony, GraphQL, REST APIs
+- **Cloud & Infrastructure**: AWS, Google Cloud, Docker
+- **Databases**: PostgreSQL, MySQL, MongoDB
 
 ---
 
